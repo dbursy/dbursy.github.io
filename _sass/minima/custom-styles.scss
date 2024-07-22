@@ -1,2 +1,36 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+.card {
+    // background-color: white;
+    // border-radius: 8px;
+    // max-width: 600px;
+    // width: 90%;
+    // padding: 16px;
+    overflow: hidden;
+}
+
+.card-title {
+    font-size: 24px;
+    text-align: left;
+}
+
+.card-content {
+    overflow: hidden;
+}
+
+.card-image {
+    float: right;
+    width: 40%;
+    max-width:100%;
+    max-height:100%;
+    height: auto;
+    margin-left: 16px;
+    margin-bottom: 16px;
+    object-fit: cover;
+}
+
+.card-text {
+    font-size: 16px;
+    text-align: justify;
+    // color: #555;
+}
