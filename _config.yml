@@ -1,12 +1,13 @@
 title: Dominik Bursy
 author:
-  name: © Dominik Bursy 2024 
+  name: © Dominik Bursy 2026 
   # email: your-email@domain.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  A portfolio centered site with a blog, to feature my adventures and projects in making, programming, and engineering. Built in Jekyll, to be served from Github pages.
+  Berlin School of Economics
+#A portfolio centered site with a blog, to feature my adventures and projects in making, programming, and engineering. Built in Jekyll, to be served from Github pages.
 #Write an awesome description for your new site here. You can edit this line
 #in _config.yml. It will appear in your document head meta (for Google search
 #results) and in your feed.xml site description.
